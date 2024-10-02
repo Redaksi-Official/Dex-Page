@@ -1,130 +1,151 @@
 {
     "general": {
-        "name": "Name Surname",
-        "headline": "Short headline about yourself",
+        "name": "Dex",
+        "headline": "without 'lite'- cuz im not a 'bensin' ",
         "about": [
-            "Hey there! 👋",
-            "This should be a first short paragraph about yourself. Tell us something about yourself, your education or your career.",
-            "And why not adding a second paragraph? Then you can tell us more about your hobbies and your life. Some people will read it and be happy to get to know you a little better."
+            "Hallow! 👋",
+            "Gue Dex, gw Gemini.", 
+            "(Lahir di pertengahan tahun & di pertengahan bulan, 200*)",
+            "Hahaha tenang aja, ga semua Gemini itu Redflag kok!. ya walaupun mostly mereka bgitu, tapi insyaallah gw termasuk bagian dari -Jemenai- yang Baik :)", 
+            "Di sini gue punya beberapa section yang mungkin bisa lu jelajahi untuk mengenal gw lebih dekat. mulai dari Hobi gw, lagu yang gw suka, dll.",  
+            "Don't forget to click 'kenalan' ya! enjoy it!"
         ],
         "socials": {
-            "email": "example@mail.com",
-            "linkedin": "https://www.linkedin.com/",
-            "github": "https://github.com/"
+            "email": "dadeksan@gmail.com?Subject=Hai%20Dex!",
+            "linkedin": "https://www.instagram.com/d.dexx_/",
+            "github": "https://www.tiktok.com/@dexxshere"
         }
     },
     "experiences": [
         {
-            "title": "Position Title",
-            "company": "Company Name",
-            "href": "",
-            "startDate": "10/2023",
-            "endDate": "CURRENT",
-            "description": "This is a short description of your role.",
-            "logo": "/logos/vercel-white.png",
-            "skills": ["Skill 1", "Skill 2", "Skill 3"]
+            "title": "Manusia Idola-ku",
+            "company": "Dexx",
+            "href": "https://open.spotify.com/intl-id/track/5YdLjW5OR49HTwaz9iOJWR?si=e6d5dbe661884945",
+            "startDate": "Release",
+            "endDate": "19/06/2023",
+            "description": "Lagu pertama gue di spotify",
+            "logo": "/logos/spotify1-white.png",
+            "skills": ["Song"]
         },
         {
-            "title": "Position Title",
-            "company": "Company Name",
-            "href": "",
-            "startDate": "01/2023",
-            "endDate": "09/2023",
-            "description": "This is a short description of your role.",
-            "logo": "/logos/vercel-white.png",
-            "skills": ["Skill 1", "Skill 2"]
+            "title": "Playlist Bina",
+            "company": "Dexx",
+            "href": "https://open.spotify.com/playlist/5K5WaQQjZCZcaiHm4hiFGc?si=d2QTdZybRk-sLI6ev0INIA",
+            "startDate": "Album",
+            "endDate": "15 Songs",
+            "description": "Playlist yang gue buat untuk -Bryna Mytra",
+            "logo": "/logos/spotify1-white.png",
+            "skills": ["Playlist"]
         },
         {
-            "title": "Position Title",
-            "company": "Company Name",
-            "href": "",
-            "startDate": "01/2022",
-            "endDate": "12/2022",
-            "description": "This is a short description of your role.",
-            "logo": "/logos/vercel-white.png",
-            "skills": ["Skill 1"]
+            "title": "Playlist Bapak gue",
+            "company": "Ebit G Ade",
+            "href": "https://open.spotify.com/intl-id/album/2rQcmvsD7S48Cllg7Vhc9S?si=Z-uaia0NSWyndeNPlYfB-A",
+            "startDate": "Release",
+            "endDate": "unknown",
+            "description": "gue juga suka sih.",
+            "logo": "/logos/spotify1-white.png",
+            "skills": ["Playlist"]
         },
         {
-            "title": "Position Title",
-            "company": "Company Name",
+            "title": "Classical Orchestra",
+            "company": "Wolfgang Amadeus Mozart,Ludwig van Beethoven, Dmitri",
             "href": "",
-            "startDate": "01/2021",
-            "endDate": "12/2021",
-            "description": "This is a short description of your role.",
-            "logo": "/logos/vercel-white.png",
-            "skills": ["Skill 1", "Skill 2", "Skill 3"]
+            "startDate": "Release",
+            "endDate": "unknown",
+            "description": "INI  GUE SUKA BANGET.",
+            "logo": "/logos/spotify1-white.png",
+            "skills": ["Song", "Instrumental", "Orcherstra", "Playlist"]
         }
     ],
     "education": [
         {
-            "subject": "University Subject",
-            "degree": "Master of Science",
-            "university": "University Name", 
+            "subject": "Playing Music",
+            "degree": "especially : Guitar and Piano",
+            "university": "Not Good enough", 
             "href": "",
-            "startDate": "2022", 
+            "startDate": "2014", 
             "endDate": "NOW", 
-            "description": "Short description of your degree."
+            "description": "Masih banyak teknik yang harus di pelajari."
         },
         {
-            "subject": "University Subject",
-            "degree": "Bachelor of Science",
-            "university": "University Name", 
+            "subject": "Listening some Music",
+            "degree": "Lets talk about Music!",
+            "university": "Genre : Pop, Balada, Jaz, Bossanova, Classical, Indie and others", 
+            "href": "",
+            "startDate": "2014", 
+            "endDate": "NOW", 
+            "description": "ngobrolin genre apa aja, asal jangan dangdut apalagi funkot! FUCCKK"
+        },
+        {
+            "subject": "Singing",
+            "degree": "i have mastered some techniques",
+            "university": "Belting, Headvoice, Chestvoice, Riffs & Run, Choir", 
+            "href": "",
+            "startDate": "2014", 
+            "endDate": "NOW", 
+            "description": "Kaga bisa ngerap!"
+        },
+        {
+            "subject": "Playing Games",
+            "degree": "Competitive & Online Games",
+            "university": "PC,CONSOLE,MOBILE", 
+            "href": "",
+            "startDate": "2017", 
+            "endDate": "NOW", 
+            "description": "Valorant, Mobile legends, Efootball/FIFA dsb."
+        },
+        {
+            "subject": "Mancing",
+            "degree": "Old Hobi",
+            "university": "Sekarang udah ga lagi", 
             "href": "",
             "startDate": "2017", 
             "endDate": "2020", 
-            "description": "Short description of your degree."
+            "description": "trauma dapet daleman orang-orang."
         }
     ],
     "volunteering": [
         {
-            "position": "Position Name",
-            "event": "Event Name",
-            "organisation": "Organisation Name",
-            "href": "",
-            "startDate": "2022",
-            "endDate": "NOW",
-            "description": "Short description of your role at the event."
+            "position": "Alumnus",
+            "event": "NURUL IMAN",
+            "organisation": "Islamic Boarding School",
+            "href": "https://redaksi-official.github.io/Pp.Nurul-iman/",
+            "startDate": "2015",
+            "endDate": "2023",
+            "description": "+7 years studi."
         },
         {
-            "position": "Position Name",
-            "event": "Event Name",
-            "organisation": "Organisation Name",
-            "href": "",
-            "startDate": "2022",
+            "position": "Member",
+            "event": "REDAKSI",
+            "organisation": "Redaksi Squad",
+            "href": "https://redaksi-official.github.io/Redaksi-Official/",
+            "startDate": "2019",
             "endDate": "NOW",
-            "description": "Short description of your role at the event."
-        },
-        {
-            "position": "Position Name",
-            "event": "Event Name",
-            "organisation": "Organisation Name",
-            "href": "",
-            "startDate": "2022",
-            "endDate": "NOW",
-            "description": "Short description of your role at the event."
+            "description": "Organisation."
         }
     ],
     "projects": [
         {
-            "name": "two-column-portfolio",
-            "framework": "next.js",
-            "description": "A simple two-column portfolio template that is easy and quick to customize for your own purposes. Mobile friendly.",
-            "href": "https://github.com/karlgrossmann/two-column-portfolio",
-            "stars": "0"
+            "name": "Song",
+            "framework": "FL.Studio",
+            "description": "Gua biasa bikin lagu,cover dan sample lagu di FL.Studio",
+            "href": "https://www.image-line.com/",
+            "stars": "2,784"
         },
        {
-            "name": "example-project",
-            "framework": "javascript",
-            "description": "Short description of your project.",
+            "name": "Coding",
+            "framework": "React,Next",
+            "description": "Ga ngerti Python.",
             "href": "",
             "stars": "2,712"
        },
        {
-        "name": "example-project-2",
-        "framework": "flutter",
-        "description": "Short description of your project.",
+        "name": "Editing",
+        "framework": "Video",
+        "description": "AE,AP,Filmora,Sony Vegas Pro, Capcut, Alight-Motion.",
         "href": "",
-        "stars": "1,999"
+        "stars": "922"
         } 
     ]
 }
