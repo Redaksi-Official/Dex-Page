@@ -17,7 +17,9 @@ export default async function PrivacyStatement() {
                 <h2 className='mb-8 text-2xl font-medium tracking-widest'>Privacy Statement</h2>
             </div>
             <div className='text-surface-600'>
-                {/* TODO: Insert your privacy statement text if you need it. */}
+            {data.privacystatement.privacy.map(function(paragraph, index){
+                    return <div className='mb-6'>{paragraph}</div>
+                })}
             </div>
         </main>
     );
