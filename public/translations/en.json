@@ -3,12 +3,11 @@
         "name": "Dex",
         "headline": "without 'lite'- cuz im not a 'bensin'.",
         "about": [
-            "Hallow! 👋",
-            "Gue Dex, gw Gemini.", 
-            "Lahir di pertengahan tahun & di pertengahan bulan, 200*",
-            "Hahaha tenang aja, ga semua Gemini itu Redflag kok! ya walaupun mostly mereka bgitu, tapi insyaallah gw termasuk bagian dari -Jemenai- yang baik", 
-            "Di sini gue punya beberapa sections yang mungkin bisa lu jelajahi untuk mengenal gw lebih dekat. mulai dari hobi gw, lagu yang gw suka, dll.",  
-            "Don't forget to click 'kenalan' ya! enjoy it!"
+            "Greetings, everyone!!👋",
+            "Dex's here! and i'm a Gemini.", 
+            "Born in the middle of the year and in the middle of the month. 21st C.",
+            "Here, I have a few sections that you can explore to get to know me better, from my hobbies and favorite songs, and more",  
+            "If you are in need of someone with the same skills that I possess, please feel free to click 'Hire Me!'"
         ],
         "socials": {
             "email": "dadeksan@gmail.com?Subject=Hai%20Dex!",
@@ -23,23 +22,23 @@
             "href": "https://open.spotify.com/intl-id/track/5YdLjW5OR49HTwaz9iOJWR?si=e6d5dbe661884945",
             "startDate": "Release",
             "endDate": "19/06/2023",
-            "description": "Lagu pertama gue di spotify",
+            "description": "Cover",
             "logo": "/logos/spotify1-white.png",
             "skills": ["Song"]
         },
         {
-            "title": "Playlist Bina",
+            "title": "Ditemani Doa",
             "company": "Dexx",
-            "href": "https://open.spotify.com/playlist/5K5WaQQjZCZcaiHm4hiFGc?si=d2QTdZybRk-sLI6ev0INIA",
-            "startDate": "Album",
-            "endDate": "15 Songs",
-            "description": "Playlist yang gue buat untuk -Bryna Mytra",
+            "href": "https://open.spotify.com/intl-id/album/3lpBDoGiHvBswmxafxOIHc?si=fr1C8fTpSQ6DGmRC5-3vmw",
+            "startDate": "Release",
+            "endDate": "11/10/2024",
+            "description": "My First song",
             "logo": "/logos/spotify1-white.png",
-            "skills": ["Playlist"]
+            "skills": ["Song"]
         },
         {
-            "title": "Playlist Bapak Gw",
-            "company": "Ebit G Ade",
+            "title": "My Spotify Playlist",
+            "company": "Dexx",
             "href": "https://open.spotify.com/intl-id/album/2rQcmvsD7S48Cllg7Vhc9S?si=Z-uaia0NSWyndeNPlYfB-A",
             "startDate": "Release",
             "endDate": "unknown",
@@ -55,18 +54,18 @@
             "endDate": "unknown",
             "description": "INI  GUE SUKA BANGET.",
             "logo": "/logos/spotify1-white.png",
-            "skills": ["Instrumental", "Orcherstra"]
+            "skills": ["Playlist"]
         }
     ],
     "education": [
         {
             "subject": "Playing Music",
             "degree": "Guitar and Piano",
-            "university": "Not Good enough", 
+            "university": "Good enough", 
             "href": "",
             "startDate": "2014", 
             "endDate": "NOW", 
-            "description": "Masih banyak teknik yang harus di pelajari."
+            "description": "But there are still many techniques to learn."
         },
         {
             "subject": "Listening some Music",
@@ -75,7 +74,7 @@
             "href": "",
             "startDate": "2014", 
             "endDate": "NOW", 
-            "description": "ngobrolin genre apa aja, asal jangan dangdut apalagi funkot! FUCCKK"
+            "description": "ngobrolin genre apa aja, asal jangan dangdut apalagi funkot! Sthaap it!"
         },
         {
             "subject": "Singing",
@@ -125,13 +124,13 @@
             "description": "Organisation."
         },
         {
-            "position": "Agent",
-            "event": "BAGINDA 'support system'",
-            "organisation": "Tour & Travel",
-            "href": "https://bagindasupportsystem.com/",
+            "position": "Music Producer",
+            "event": "Davinsen Studio",
+            "organisation": "Music Production",
+            "href": "#",
             "startDate": "2022",
             "endDate": "NOW",
-            "description": "Baginda tour  & travel"
+            "description": "Davinsen Studio is a music studio located in Probolinggo."
         },
         {
             "position": "Teacher",
@@ -146,24 +145,24 @@
     "projects": [
         {
             "name": "Song",
-            "framework": "FL.Studio",
-            "description": "Gua biasa bikin lagu,cover dan sample lagu di FL.Studio",
+            "framework": "Music Producer",
+            "description": "Pop, Orchestra, Classical Jazz, Ambient Music, DJ Horeg etc.",
             "href": "https://www.image-line.com/",
             "stars": "2,784"
         },
        {
             "name": "Coding",
-            "framework": "TS,JS",
-            "description": "Ga ngerti Python.",
+            "framework": "Programmer",
+            "description": "Next Js, React JS, Laravel etc.",
             "href": "",
-            "stars": "2,712"
+            "stars": "2,598"
        },
        {
             "name": "Clothing",
             "framework": "Brand",
             "description": "Sampoerna Bordir",
             "href": "",
-            "stars": "2,712"
+            "stars": "1,712"
        },
        {
         "name": "Editing",
